@@ -9,7 +9,7 @@ from starlette.middleware.cors import CORSMiddleware
 from starlette.responses import HTMLResponse, JSONResponse
 from starlette.staticfiles import StaticFiles
 
-export_file_url = 'https://drive.google.com/open?id=1TCQTkxtlc-pCljcUd6VBBudcXbPocwye'
+export_file_url = 'https://drive.google.com/uc?export=download&id=14QoqDfyZ5cBgeX8bompLjd_4yCUAukx8'
 export_file_name = 'export.pkl'
 
 classes = ['lelouch vi britannia', 'karen kozuki', 'cc code geass', 'Schneizel', 'nunnally', 'euphemia', 'suzaku kururugi', 'Cornelia li Britannia','Charles di Britannia', 'Alexandre Ferrer']
